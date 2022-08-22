@@ -60,7 +60,7 @@ header ul li a:hover{
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
-    padding-top: 200px;
+    padding-top: 100px;
     margin-bottom: 30px;
 }
 
@@ -476,12 +476,12 @@ footer a{
         font-weight: 500;
     }
     
-
    .s-about{
-    position:relative;
+    position:
+    relative;
     width: 100%;
-    height: 90vh;
-    background-color: #004AAD ;
+    height: 100vh;
+    background-color: #004AAD;
     padding: 100px;
     display: flex;
     align-items: center;
@@ -732,9 +732,11 @@ footer a{
 .contatos{
     width: 100%;
     display: flex;
-    align-items:center;
+    align-items:
+    center;
     flex-direction: column-reverse;
-    justify-content: space-around;
+    margin-top: auto;
+    margin-bottom: 15px;
 }
 
 .contatos strong{
@@ -788,7 +790,5 @@ footer a{
     text-decoration: none;
     color: #004AAD;
 }
-
-
 
  }
