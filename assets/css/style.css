@@ -134,6 +134,25 @@ header ul li a:hover{
     transition-duration: 0.6s;
 }
 
+.custom-shape-divider-bottom-1661174342 {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1661174342 svg {
+    position: relative;
+    display: block;
+    width: calc(151% + 1.3px);
+    height: 76px;
+}
+
+.custom-shape-divider-bottom-1661174342 .shape-fill {
+    fill: #004AAD;
+}
 
  /*********************** sobre mim *****************/
 
@@ -232,17 +251,32 @@ header ul li a:hover{
     transform: scale(1.09);
 }
 
-.onda2{
-    margin-top: -10px;
-    display: flex;
+.custom-shape-divider-top-1661173743 {
     position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1661173743 svg {
+    position: relative;
+    display: block;
+    width: calc(284% + 1.3px);
+    height: 63px;
+}
+
+.custom-shape-divider-top-1661173743 .shape-fill {
+    fill: #004AAD;
 }
 
 /*********************** Serviços *****************/
 
 
 .servicos{
-    height: 60vh;
+    height: 90vh;
     position: relative;
     display:flex;
     align-items: center;
