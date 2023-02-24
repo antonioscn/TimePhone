@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as tecnologias:
 - HTML
 - CSS
 
-## Visualiser
+## Visualiser do projeto antigo
 
 ![alt text](https://raw.githubusercontent.com/antonioscn/timephone/main/assets/imgs/Captura%20de%20tela.png)
  
