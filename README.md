@@ -15,15 +15,7 @@ Esse projeto foi desenvolvido com as tecnologias:
 
 - HTML
 - CSS
-
-## Visualiser do projeto novo
-
-![alt text](https://raw.githubusercontent.com/antonioscn/timephone/main/assets/imgs/Captura%20de%20tela.png)
- 
- ## Visualiser do projeto antigo
-
-![alt text](https://raw.githubusercontent.com/antonioscn/timephone/main/assets/imgs/Captura%20de%20tela.png)
- 
+- JavaScript
  
 ## ✨ Deploy
   Veja o deploy do projeto [TimePhone](https://antonioscn.github.io/timephone/).
