@@ -1,4 +1,4 @@
-## <p align="center"> [EM ATUALIZAÇÃO] TimePhone</p>
+## <p align="center">TimePhone</p>
 
 <p align="center">
 Repositório criado para compartilhar a criação de uma LandingPage para uma assistência técnica de celulares em Salvador.
@@ -18,5 +18,5 @@ Esse projeto foi desenvolvido com as tecnologias:
 - JavaScript
  
 ## ✨ Deploy
-  Veja o deploy do projeto [TimePhone](https://antonioscn.github.io/timephone/).
+  Veja o deploy do projeto [TimePhone](https://timephone-antigo.vercel.app).
 
